@@ -1,2 +1,2 @@
-# Mysql-PowerBI-
-HR-Mysql-PowerBI
+HR-Dashboard-MySQL-PowerBI
+
